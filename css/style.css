@@ -44,7 +44,7 @@ body .yellow {
   position: fixed;
   top:20px;
   right:20px;
-
+  z-index: 99;
 }
 
 /* text  */
@@ -62,9 +62,7 @@ body .yellow {
 }
 
 
-
 /* images */
-
 
 .box .image  {
   position: absolute;
